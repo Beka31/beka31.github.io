@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\gallery"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "..\\..\\gallery2"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "gallery"
+	}
+}
